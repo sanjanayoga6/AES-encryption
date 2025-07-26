@@ -12,7 +12,7 @@ This project is a **Graphical User Interface (GUI) application** built with **Py
 - Proper PKCS7 padding handled automatically
 - Easy-to-use interface for learning block ciphers
 
-## What is AES?
+# What is AES?
 AES (Advanced Encryption Standard) is a widely used symmetric block cipher algorithm that encrypts data in 128-bit blocks using secret keys of 128, 192, or 256 bits.
 
 # Used in:
@@ -22,4 +22,5 @@ AES (Advanced Encryption Standard) is a widely used symmetric block cipher algor
 - Messaging apps (Signal, WhatsApp)
 
 Installation of package: pip install pycryptodome
+
 Clone the repository, run it as python aes_gui.py, the gui window opens up, add your plain text, type the AES key which should be either 16 or 24 or 32 bytes, encrypt the test and you can also decrypt the key. 
